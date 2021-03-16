@@ -1,2 +1,2 @@
 # FCC-projects
-Prejects developed in the FreeCodeCamp courses
+Projects developed in the FreeCodeCamp courses
